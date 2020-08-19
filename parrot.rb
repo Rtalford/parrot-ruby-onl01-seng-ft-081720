@@ -3,7 +3,7 @@
 
 def parrot (squawk)
   puts "#{squawk}!"
-  return 
+  return "#{squawk}!" 
 end 
 
 parrot
